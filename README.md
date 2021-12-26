@@ -1,7 +1,7 @@
 # Weather-logs-SQLite
 Scraping weather data for Cairo and save it in SQLite database
 
-#Database Design
+# Database Design
 
 - Temp: int
 - wind: text
